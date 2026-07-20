@@ -15,6 +15,6 @@ class Solution:
                         del freq[fruits[l]]
                     l +=1
             
-            elif len(freq) <= 2:
-                res = max(res, h-l+1)
+        
+            res = max(res, h-l+1)
         return res 
