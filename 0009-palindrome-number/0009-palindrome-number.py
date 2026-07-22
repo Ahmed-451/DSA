@@ -4,8 +4,7 @@ class Solution:
         rev =0
         l=0
         
-        if x < 0:
-            return False
+        
         while n>0:
             l = n%10
             rev = rev*10+l
