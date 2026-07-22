@@ -3,8 +3,6 @@ class Solution:
         n = x
         rev =0
         l=0
-        
-        
         while n>0:
             l = n%10
             rev = rev*10+l
