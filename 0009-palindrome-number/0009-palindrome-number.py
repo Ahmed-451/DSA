@@ -9,7 +9,5 @@ class Solution:
             rev = rev*10+l
             n = n//10
 
-        if rev == x:
-            return True
-        else:
-            return False
+        
+        return rev == x
