@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Ahmed-451/DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ahmed-451/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ahmed-451/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Ahmed-451/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ahmed-451/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ahmed-451/DSA/tree/master/0009-palindrome-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Ahmed-451/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Simulation
 |  |
 | ------- |
