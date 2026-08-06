@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ahmed-451/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ahmed-451/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Ahmed-451/DSA/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/Ahmed-451/DSA/tree/master/0414-third-maximum-number) |
 | [0904-fruit-into-baskets](https://github.com/Ahmed-451/DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ahmed-451/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ahmed-451/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ahmed-451/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Ahmed-451/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ahmed-451/DSA/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/Ahmed-451/DSA/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ahmed-451/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
