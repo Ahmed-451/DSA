@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ahmed-451/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Ahmed-451/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ahmed-451/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Ahmed-451/DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ahmed-451/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Ahmed-451/DSA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Ahmed-451/DSA/tree/master/0567-permutation-in-string) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Ahmed-451/DSA/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Ahmed-451/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ahmed-451/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Ahmed-451/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Ahmed-451/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ahmed-451/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ahmed-451/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ahmed-451/DSA/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/Ahmed-451/DSA/tree/master/0202-happy-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ahmed-451/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Simulation
 |  |
@@ -133,5 +136,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Ahmed-451/DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ahmed-451/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
