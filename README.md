@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Ahmed-451/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Ahmed-451/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ahmed-451/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Ahmed-451/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Ahmed-451/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ahmed-451/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ahmed-451/DSA/tree/master/0088-merge-sorted-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ahmed-451/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ahmed-451/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Ahmed-451/DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ahmed-451/DSA/tree/master/0287-find-the-duplicate-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Ahmed-451/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
