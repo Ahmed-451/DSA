@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ahmed-451/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ahmed-451/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Ahmed-451/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2574-left-and-right-sum-differences](https://github.com/Ahmed-451/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ahmed-451/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Ahmed-451/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Ahmed-451/DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ahmed-451/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [2574-left-and-right-sum-differences](https://github.com/Ahmed-451/DSA/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
